@@ -1,2 +1,7 @@
-# contact-book-python
-simple contact-book built using python,lists, dictionaries and function.
+# Contact Book
+A simple conact book made with python.
+
+## Features
+- Add Contact
+- Show Contact
+- Men Driven projram
